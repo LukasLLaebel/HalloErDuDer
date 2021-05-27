@@ -12,54 +12,47 @@ export const heroData = {
   title: '',
   name: '',
   subtitle: '',
-  cta: '',
+  cta: 'Om os',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'Omos.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.uvm.dk/',
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'LOGO.png',
+    title: 'Kampagnen: Hallo Er Du Der?',
+    info: 'Er en kampagnen lavet af Børne- og Undervisningsministeriet, som skal sætte fokus på det voksende problem med at elever/studerende i højere grad bliver forstyrret af sociale medier.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://luka2313.wixsite.com/kampagner1',
+    repo: 'Se Kampagnevideoen',
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'none',
+    title: 'Kampagneplakat',
+    info: ' ',
+    info2: ' ',
+    url: 'https://luka2313.wixsite.com/kampagner1/plakat',
+    repo: 'Plakat',
   },
 ];
+
+
 
 // CONTACT DATA
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'halloerduder1234@gmail.com',
 };
 
 // FOOTER DATA
@@ -72,18 +65,18 @@ export const footerData = {
     },
     {
       id: nanoid(),
-      name: 'codepen',
+      name: 'facebook',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'linkedin',
+      name: 'tictok',
       url: '',
     },
     {
       id: nanoid(),
-      name: 'github',
-      url: '',
+      name: 'instagram',
+      url: 'https://www.instagram.com/hallo_er_du_der/',
     },
   ],
 };
