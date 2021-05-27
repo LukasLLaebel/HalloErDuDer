@@ -60,23 +60,23 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'facebook',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'tictok',
+      name: 'none',
       url: '',
     },
     {
       id: nanoid(),
       name: 'instagram',
       url: 'https://www.instagram.com/hallo_er_du_der/',
+    },
+    {
+      id: nanoid(),
+      name: 'none',
+      url: '',
+    },
+    {
+      id: nanoid(),
+      name: 'none',
+      url: '',
     },
   ],
 };
