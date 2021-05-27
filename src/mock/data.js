@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'LOGO.png',
     title: 'Kampagnen: Hallo Er Du Der?',
-    info: 'Er en kampagnen lavet af Børne- og Undervisningsministeriet, som skal sætte fokus på det voksende problem med at elever/studerende i højere grad bliver forstyrret af sociale medier.',
+    info: 'Er en kampagne lavet af Børne- og Undervisningsministeriet, som skal sætte fokus på det voksende problem med at elever/studerende i højere grad bliver forstyrret af sociale medier.',
     info2: '',
     url: 'https://luka2313.wixsite.com/kampagner1',
     repo: 'Se Kampagnevideoen',

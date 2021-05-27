@@ -43,7 +43,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Vi har fået til opgave at lave en kampagne hvor vi sætter fokus på den manglende koncentration i timerne. Grunden til vi har fået opgaven, er fordi vi selv er en del af målgruppen, og derfor har vi en ide om, hvor vi får budskabet ud, til målgruppen.'}
+                    'Vi havde fået til opgave at lave en kampagne hvor vi sætter fokus på den manglende koncentration i timerne. Grunden til vi har fået opgaven, er fordi vi selv er en del af målgruppen, og derfor har vi en ide om, hvor vi får budskabet ud, til målgruppen.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree || 'Dette er en skoleopgaver. Det skal ikke bruges virksomhedsmæssigt, så derfor overtræder det ingen copyright regler. '}
